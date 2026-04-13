@@ -1,1 +1,14 @@
-
+build/
+install/
+log/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.eggs/
+*.db
+room_map.yaml
+room_map.pgm
+.ros/
+*.bag
+*.bag.active
